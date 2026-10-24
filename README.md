@@ -6,7 +6,7 @@ Step-by-step PowerPoint guides for the **Microsoft Fabric Fundamentals** video s
 Each video has a matching guide. The guide has a screenshot of every screen, the exact control to select and
 what you should see next, so you can follow along in your own Fabric workspace without pausing the video.
 
-▶️ **Watch the whole series in order:** [Microsoft Fabric Fundamentals playlist](https://www.youtube.com/playlist?list=REPLACE_PLAYLIST_ID)
+▶️ **Watch the whole series in order:** [Microsoft Fabric Fundamentals playlist](https://www.youtube.com/playlist?list=PLI63lhvYEa7k)
 
 ## The series
 
@@ -54,4 +54,3 @@ If the guides help you, please **subscribe to the channel** and **star ⭐ this 
 
 *This is an independent learning resource and is not affiliated with or endorsed by Microsoft. Microsoft, Microsoft
 Fabric, OneLake and Power BI are trademarks of the Microsoft group of companies.*
-
